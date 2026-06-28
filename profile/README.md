@@ -2,41 +2,29 @@
 
 Build. Learn. Grow.
 
-Ground Zero Community is a professional technology community for developers, students, designers, creators, and enthusiasts who want to collaborate on practical projects and continuous learning.
+Ground Zero Community is a space for developers, students, designers, creators, and curious minds who want to learn and build together.
 
-## Mission
+## What We Are About
 
-To create an inclusive, high-standard environment where members:
+- Helping each other solve technical problems
+- Building web, mobile, and software projects together
+- Sharing design feedback and improving UI/UX skills
+- Learning cybersecurity and safe development practices
+- Exploring AI and machine learning with real examples
+- Contributing to open source as a team
+- Sharing resources, updates, and useful documentation
 
-- Learn modern technologies through hands-on collaboration
-- Build real-world projects with strong engineering practices
-- Share knowledge, feedback, and opportunities for growth
+## Our Values
 
-## What We Do
+- Respect and kindness
+- Curiosity and consistency
+- Collaboration and support
+- Learning by doing
 
-- Technical discussions and programming support
-- Web, mobile, and software engineering collaboration
-- UI/UX design review and iteration
-- Cybersecurity awareness and best practices
-- Artificial intelligence and machine learning exploration
-- Open-source contribution and project collaboration
-- Learning resources, documentation, and industry updates
-- Project showcases with constructive peer feedback
-- Networking with peers and professionals
-
-## Community Standards
-
-We value:
-
-- Professionalism and respectful communication
-- Curiosity, mentorship, and continuous improvement
-- Collaboration over competition
-- Quality, documentation, and maintainable work
-
-## Connect With Ground Zero
+## Connect With Us
 
 - Website: [groundzero.tech](https://groundzero.tech)
-- GitHub Organization: [GroundZero-Community](https://github.com/GroundZero-Community)
+- GitHub: [GroundZero-Community](https://github.com/GroundZero-Community)
 - Discord: [Join our Discord Server](https://discord.gg/4H2v6UwjmY)
 - Facebook Page: [Ground Zero Digital](https://www.facebook.com/GroundZeroDigital/)
 - Facebook Group: [Ground Zero Community](https://www.facebook.com/groups/groundzerocommunity/)
@@ -45,6 +33,4 @@ We value:
 
 ## Join Us
 
-Whether you are starting your first project or scaling production systems, Ground Zero gives you a place to build with purpose and learn with a strong technical community.
-
-We welcome members from all experience levels.
+No matter your current level, you are welcome here. We are all learning, building, and growing together.
