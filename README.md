@@ -1,5 +1,8 @@
 # Ground Zero Community
 
+> [!NOTE]
+> This repository contains organization-wide defaults. The profile description shown below is defined in [profile/README.md](profile/README.md) to render on the organization overview page.
+
 Build. Learn. Grow.
 
 Ground Zero Community is a welcoming technology community for developers, students, designers, creators, and tech enthusiasts to build practical projects, share knowledge, and learn together.
