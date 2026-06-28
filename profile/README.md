@@ -33,6 +33,15 @@ We value:
 - Collaboration over competition
 - Quality, documentation, and maintainable work
 
+## Community Guides
+
+Learn more about how we collaborate, keep our community safe, and build projects:
+
+- 📜 **[Code of Conduct](https://github.com/GroundZero-Community/.github/blob/main/.github/CODE_OF_CONDUCT.md)** – Standards for respectful and constructive communication.
+- 🤝 **[Contributing Guidelines](https://github.com/GroundZero-Community/.github/blob/main/.github/CONTRIBUTING.md)** – How to suggest enhancements, report issues, and contribute code.
+- 🛡️ **[Security Policy](https://github.com/GroundZero-Community/.github/blob/main/.github/SECURITY.md)** – Guidelines for reporting security vulnerabilities.
+- ⚖️ **[License](https://github.com/GroundZero-Community/.github/blob/main/.github/LICENSE)** – Permissive MIT open-source license details.
+
 ## Connect With Ground Zero
 
 - Website: [groundzero.tech](https://groundzero.tech)
