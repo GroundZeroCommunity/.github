@@ -1,0 +1,15 @@
+{
+  "name": "groundzero-community-metadata",
+  "version": "1.0.0",
+  "description": "Ground Zero Community organization-wide templates and documentation",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"README.md\" \"profile/README.md\" \"docs/**/*.md\" \".github/**/*.md\"",
+    "check-links": "node scripts/check-links.js",
+    "test": "npm run lint && npm run check-links"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.13.0",
+    "markdown-link-check": "^3.12.0"
+  },
+  "private": true
+}

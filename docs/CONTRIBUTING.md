@@ -25,14 +25,14 @@ If you find a bug or have an idea for improvement:
 
 - Fix typos or unclear explanations
 - Add examples or tutorials
-- Improve README files
-- Create guides for common tasks
+- Improve README files (using the [README Template](README_TEMPLATE.md))
+- Create guides for common tasks (following our [Markdown Style Guide](MARKDOWN_STYLE.md))
 
 ### 4. **Help Other Members**
 
 - Answer questions in Discussions
 - Share resources and knowledge
-- Review pull requests and offer feedback
+- Review pull requests and offer feedback (refer to our [Code Review Guide](CODE_REVIEW.md))
 - Mentor newer members
 
 ## Development Guidelines
@@ -40,13 +40,13 @@ If you find a bug or have an idea for improvement:
 ### Before You Start
 
 1. Read the relevant project's README
-2. Look at existing code and documentation style
+2. Look at existing code and documentation style (refer to our [Markdown Style Guide](MARKDOWN_STYLE.md))
 3. Check open issues and PRs to avoid duplication
 4. Ask questions if something is unclear—we're happy to help!
 
 ### Code Standards
 
-- Write clean, readable, and maintainable code
+- Write clean, readable, and maintainable code following our [Code Review Guide](CODE_REVIEW.md)
 - Add comments for complex logic
 - Follow the existing code style
 - Test your changes locally before submitting
@@ -54,9 +54,9 @@ If you find a bug or have an idea for improvement:
 ### Commit Messages
 
 Use clear, descriptive commit messages:
-- ✅ Good: "Add user authentication feature"
-- ✅ Good: "Fix bug in data validation"
-- ❌ Avoid: "fix stuff" or "changes"
+- [Good] "Add user authentication feature"
+- [Good] "Fix bug in data validation"
+- [Avoid] "fix stuff" or "changes"
 
 ### Pull Requests
 
@@ -88,6 +88,19 @@ We believe in recognizing contributions. Active contributors may be:
 - Invited to join maintainer teams
 - Featured in community highlights
 
+## Contributing to the Configuration Repository (.github)
+
+This repository holds the default profiles, templates, and guidelines for the entire Ground Zero Community. If you are proposing changes to these rules, templates, or the profile readme:
+
+* **File formatting:** Make sure any new documentation files follow our [Markdown Style Guide](MARKDOWN_STYLE.md).
+* **Local Testing:** You can check your formatting and links locally before submitting your Pull Request by running:
+  ```bash
+  npm install
+  npm test
+  ```
+* **Validation:** Automated workflows (`markdown-link-check` and `markdown-lint`) will run these same checks on your Pull Request.
+* **Organizer Approval:** All additions or changes to organizational rules, templates, and guidelines require approval from community organizers.
+
 ## Questions?
 
 If you have any questions about contributing, feel free to:
@@ -97,4 +110,4 @@ If you have any questions about contributing, feel free to:
 
 ---
 
-Thank you for helping make Ground Zero Community amazing! 🚀
+Thank you for helping make Ground Zero Community amazing!

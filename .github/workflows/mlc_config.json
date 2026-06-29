@@ -1,0 +1,19 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    },
+    {
+      "pattern": "^https://m.me/"
+    },
+    {
+      "pattern": "^http://localhost"
+    },
+    {
+      "pattern": "^https://groundzero.tech"
+    },
+    {
+      "pattern": "^https://docs.npmjs.com"
+    }
+  ]
+}

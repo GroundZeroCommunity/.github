@@ -64,7 +64,7 @@ When using our projects, please follow these practices:
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [GitHub Security Best Practices](https://docs.github.com/en/code-security)
-- [npm Security](https://docs.npmjs.com/about-npm-security)
+- [npm Security](https://docs.npmjs.com/)
 
 ## Questions?
 
