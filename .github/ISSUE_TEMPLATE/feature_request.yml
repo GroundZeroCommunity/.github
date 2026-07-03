@@ -1,0 +1,43 @@
+name: Feature Request
+description: Suggest an idea or enhancement for this project
+title: "[FEATURE] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to improve Ground Zero Community? We'd love to hear it! Please fill out the form below.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of what the problem is.
+      placeholder: E.g. "I find it hard to..." or "It would be easier if..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+      placeholder: Describe the desired behavior or features...
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, mockup screenshots, or diagrams about the feature request here.
+  - type: checkboxes
+    id: search-confirmation
+    attributes:
+      label: Search before opening
+      description: Please confirm you checked for existing requests.
+      options:
+        - label: I have searched existing issues to see if this feature request has already been suggested.
+          required: true

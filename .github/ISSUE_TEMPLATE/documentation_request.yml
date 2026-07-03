@@ -1,0 +1,45 @@
+name: Documentation Request
+description: Propose changes or additions to the community guides or README files
+title: "[DOCS] "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us keep our documentation accurate and friendly! Please fill out the form below.
+  - type: input
+    id: target-doc
+    attributes:
+      label: Which document needs update or creation?
+      description: Please specify the file name or folder (e.g., docs/CONTRIBUTING.md or a new guide name).
+      placeholder: E.g. docs/CONTRIBUTING.md
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-changes
+    attributes:
+      label: Describe the proposed changes
+      description: A clear and concise description of what needs to be added, corrected, or clarified.
+      placeholder: Describe the additions, typo fixes, or structural changes...
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why is this change necessary?
+      description: Explain the benefit of this documentation update (e.g., outdated setup instructions, typos, unclear phrasing).
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context, links, or references here.
+  - type: checkboxes
+    id: search-confirmation
+    attributes:
+      label: Search before opening
+      description: Please confirm you checked for existing requests.
+      options:
+        - label: I have searched existing issues to see if this documentation request has already been opened.
+          required: true
