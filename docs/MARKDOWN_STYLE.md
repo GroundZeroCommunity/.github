@@ -33,6 +33,7 @@ This guide establishes the formatting rules for Markdown files across all Ground
 ## Tables
 
 * Center, left-align, or right-align table columns using colons in the separator line:
+
   | Feature | Description | Status |
   | :--- | :--- | :---: |
   | Documentation | Formatting and style | Completed |
