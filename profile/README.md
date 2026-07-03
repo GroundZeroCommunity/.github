@@ -56,11 +56,11 @@ We believe in fostering a supportive environment built on key values:
 
 Learn more about how we collaborate, keep our community safe, and build projects:
 
-- **[Code of Conduct](https://github.com/GroundZeroCommunity/.github/blob/main/.github/CODE_OF_CONDUCT.md)** – Standards for respectful and constructive communication.
-- **[Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/.github/CONTRIBUTING.md)** – How to suggest enhancements, report issues, and contribute code.
-- **[Security Policy](https://github.com/GroundZeroCommunity/.github/blob/main/.github/SECURITY.md)** – Guidelines for reporting security vulnerabilities.
-- **[Support Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/.github/SUPPORT.md)** – Where and how to ask questions and get support.
-- **[License](https://github.com/GroundZeroCommunity/.github/blob/main/LICENSE)** – Permissive MIT open-source license details.
+- **[Code of Conduct](https://github.com/GroundZeroCommunity/.github/blob/master/.github/CODE_OF_CONDUCT.md)** – Standards for respectful and constructive communication.
+- **[Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/master/.github/CONTRIBUTING.md)** – How to suggest enhancements, report issues, and contribute code.
+- **[Security Policy](https://github.com/GroundZeroCommunity/.github/blob/master/.github/SECURITY.md)** – Guidelines for reporting security vulnerabilities.
+- **[Support Guidelines](https://github.com/GroundZeroCommunity/.github/blob/master/.github/SUPPORT.md)** – Where and how to ask questions and get support.
+- **[License](https://github.com/GroundZeroCommunity/.github/blob/master/LICENSE)** – Permissive MIT open-source license details.
 
 ---
 

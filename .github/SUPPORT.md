@@ -24,11 +24,11 @@ To help keep our repositories organized and our development focused, please foll
 | **I have a general question or need help debugging my code** | [Discord #programming-help](https://discord.com/channels/1173959593123119185/1522594221284917358) | Ideal for quick back-and-forth chat and peer debugging. |
 | **I found a bug in a Ground Zero Community project** | **GitHub Issues** | Search the project's repository issues first. If it hasn't been reported, open a new issue using the **Bug Report** template. |
 | **I want to suggest a new feature or improvement** | **GitHub Issues** / [Discord #open-source-chat](https://discord.com/channels/1173959593123119185/1522594265975488644) | Open a **Feature Request** issue, or discuss the idea on Discord first to gather feedback. |
-| **I want to contribute code to a project** | [Discord #open-source-chat](https://discord.com/channels/1173959593123119185/1522594265975488644) | Check out our [Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/.github/CONTRIBUTING.md) and let us know in the channel which issue you'd like to work on! |
+| **I want to contribute code to a project** | [Discord #open-source-chat](https://discord.com/channels/1173959593123119185/1522594265975488644) | Check out our [Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/master/.github/CONTRIBUTING.md) and let us know in the channel which issue you'd like to work on! |
 
 ---
 
 ## 📜 Community Guidelines
 
-* Before asking for help, please make sure you are familiar with our **[Code of Conduct](https://github.com/GroundZeroCommunity/.github/blob/main/.github/CODE_OF_CONDUCT.md)**.
+* Before asking for help, please make sure you are familiar with our **[Code of Conduct](https://github.com/GroundZeroCommunity/.github/blob/master/.github/CODE_OF_CONDUCT.md)**.
 * When asking for code support in `#programming-help`, try to provide a clear description of the problem, the expected behavior, and code snippets or error logs (use code blocks for readability).
