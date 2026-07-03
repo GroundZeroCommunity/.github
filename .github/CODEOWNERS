@@ -1,0 +1,9 @@
+# Each line is a pattern followed by one or more owners.
+# These owners will be automatically requested for review when a PR changes matching files.
+
+# Global owners for the entire repository
+*       @0x3EF8 @0xp47
+
+# Workflows and templates require explicit reviews
+/.github/workflows/   @0x3EF8 @0xp47
+/.github/workflows/mlc_config.json   @0x3EF8 @0xp47
