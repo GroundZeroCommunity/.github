@@ -7,6 +7,7 @@ This repository (the `.github` special metadata repository) is the centralized h
 ## Repository Contents
 
 * **[profile/README.md](profile/README.md)** – Customizes the organization's public landing page on GitHub.
+* **[.github/SUPPORT.md](.github/SUPPORT.md)** – Guidelines and Discord links for seeking help and support.
 * **[.github/CONTRIBUTING.md](.github/CONTRIBUTING.md)** – The central guide for community members outlining code contribution rules and workflow.
 * **[docs/MARKDOWN_STYLE.md](docs/MARKDOWN_STYLE.md)** – Guidelines for writing and formatting consistent Markdown files.
 * **[docs/CODE_REVIEW.md](docs/CODE_REVIEW.md)** – Guidelines for conducting constructive and quality code reviews.
