@@ -66,8 +66,8 @@ npm run test
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/docs/CONTRIBUTING.md) to understand our pull request process, code standards, and branch naming conventions.
+We welcome contributions! Please read our [Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/.github/CONTRIBUTING.md) to understand our pull request process, code standards, and branch naming conventions.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/GroundZeroCommunity/.github/blob/main/docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/GroundZeroCommunity/.github/blob/main/LICENSE) file for details.
