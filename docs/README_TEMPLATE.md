@@ -29,7 +29,7 @@ List any software, libraries, or global packages needed to run this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GroundZero-Community/project-name.git
+   git clone https://github.com/GroundZeroCommunity/project-name.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -66,8 +66,8 @@ npm run test
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](https://github.com/GroundZero-Community/.github/blob/main/docs/CONTRIBUTING.md) to understand our pull request process, code standards, and branch naming conventions.
+We welcome contributions! Please read our [Contributing Guidelines](https://github.com/GroundZeroCommunity/.github/blob/main/docs/CONTRIBUTING.md) to understand our pull request process, code standards, and branch naming conventions.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/GroundZero-Community/.github/blob/main/docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/GroundZeroCommunity/.github/blob/main/docs/LICENSE) file for details.
