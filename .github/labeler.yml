@@ -1,0 +1,16 @@
+# Configuration for actions/labeler
+
+workflows:
+  - any: ['.github/workflows/**/*']
+
+documentation:
+  - any: ['*.md', '.github/**/*.md', 'docs/**/*.md']
+
+templates:
+  - any: ['.github/ISSUE_TEMPLATE/**/*', '.github/pull_request_template.md']
+
+dependencies:
+  - any: ['package.json', 'package-lock.json']
+
+configuration:
+  - any: ['.gitignore', '.markdownlint.json', '.github/FUNDING.yml']
