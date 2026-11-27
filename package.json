@@ -8,7 +8,7 @@
     "test": "npm run lint && npm run check-links"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.24.1",
+    "markdownlint-cli2": "^0.24.2",
     "markdown-link-check": "^3.12.0"
   },
   "overrides": {
